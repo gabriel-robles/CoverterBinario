@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ConverterBinario</string>
+    <string name="et_error">O número digitado deve estar entre 2 e 1000, digite novamente</string>
+    <string name="et_hint">Número de 2 até 1000</string>
+    <string name="converter_button">Converter</string>
+    <string name="tv_resultado_preenchido">Binário: %1$s</string>
+    <string name="tv_resultado">Binário:</string>
+    <string name="tv_titulo">Conversor de Números</string>
+</resources>
